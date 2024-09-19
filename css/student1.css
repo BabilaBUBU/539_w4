@@ -68,6 +68,6 @@ body{
       object-fit: fill;
  }
 
-.gallery img:last-of-type{
+.gallery img:last-child{
       grid-column: 1/3;
 }
